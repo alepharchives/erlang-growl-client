@@ -1,0 +1,14 @@
+Hi,
+
+This is my first attempt at a simple growl client written in erlang.  You can configure it from the growl.cfg (and make the notifications work
+across a network), however on the first attempt you will be asked if you wish to allow the growlhelper.app access to the keychain.
+
+This will probably be obsolete soon, as there is a new protocol in the growl 1.3 series (called GNTP), I just dont have a server for it yet.
+
+
+Todo:
+	Priority and sticky not calculated yet.
+	GNTP protocol, although it looks considerably more verbose (yet simpler) than this.
+
+
+

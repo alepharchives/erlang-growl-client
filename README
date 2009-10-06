@@ -9,6 +9,6 @@ This will probably be obsolete soon, as there is a new protocol in the growl 1.3
 Todo:
 	Priority and sticky not calculated yet.
 	GNTP protocol, although it looks considerably more verbose (yet simpler) than this.
-
+	Learn how to makefile/package this properly. 
 
 
